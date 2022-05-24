@@ -1,0 +1,31 @@
+.outraLinha{
+    border:1px solid ;
+}
+
+nav a {
+  text-transform: uppercase;
+  color:#FFFFFF;
+  font-weight: bold;
+  font-size: 15px;
+  text-decoration: none;
+}
+
+#imgInicial {
+  width: 100%;
+
+}
+
+.lista {
+  display: flex;
+  justify-content: center;
+  position: absolute;
+  top: 0px;
+  right:50px;
+  left: 50px;
+  margin-top: 39px;
+}
+
+.listaDeInformacoes {
+  display: inline;
+  padding: 10px;
+}
